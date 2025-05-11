@@ -92,7 +92,7 @@ function Projects() {
               description="
           A responsive Personal Portfolio website designed to highlight skills and accomplishments. Includes dedicated sections such as Home, About, Projects, and Resume. Built using modern web technologies like HTML, CSS, JavaScript, and React. Showcases completed work, educational background, and technical proficiency. Provides a clean, user-friendly interface for exploring a developer’s journey."
               ghLink="https://github.com/Nitish4847/PersonalPortfolio-main"
-              demoLink="https://personal-portfolio-main-lac.vercel.app/"
+              demoLink="https://personal-portfolio-main-jet.vercel.app/"
             />
           </Col>
 
