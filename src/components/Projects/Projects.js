@@ -91,8 +91,8 @@ function Projects() {
               title="Portfolio_Website"
               description="
               After getting clear precise knowledge of #HTML #CSS #responsiveness and #animation . I decided to make a Dummy Portfolio website for myself.."
-              ghLink="https://github.com/Nitish76kumar/PortfolioNitish"
-              demoLink="https://portfolio-nitish.vercel.app/"
+              ghLink="https://github.com/Nitish4847/PersonalPortfolio-main"
+              demoLink="https://personal-portfolio-main-lac.vercel.app/"
             />
           </Col>
 
